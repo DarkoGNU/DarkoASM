@@ -1,7 +1,5 @@
 #include "SymbolTable.h"
 
-#include <iostream> // for debugging
-
 SymbolTable::SymbolTable() {
 	this->symbolMap;
 
